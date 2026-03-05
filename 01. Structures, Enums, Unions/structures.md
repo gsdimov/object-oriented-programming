@@ -61,3 +61,16 @@ struct Corge {
   int i;
 };
 ```
+
+6.
+```cpp
+struct A {
+  int i;
+  char c;
+};
+
+struct B {
+  A a;
+  char c2;
+};
+```
