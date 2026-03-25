@@ -112,5 +112,7 @@ int main() {
   // a.operator=(b);
   p4 = (p = p3);
 
+  std::cout << "fnwkjfn";
+
   return 0;
 }
