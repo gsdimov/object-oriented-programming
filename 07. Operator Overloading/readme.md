@@ -202,7 +202,7 @@
   - `Complex operator*(Complex const &other) const`;
   - `Complex &operator/=(Complex const &other)`;
   - `Complex operator/(Complex const &other) const`;
-  - `Complex &operator%=(Complex const &other)` (май е безмислено тук);
+  - `Complex &operator%=(Complex const &other)` (май е безсмислено тук);
   - `Complex operator%(Complex const &other) const`.
 
   Операторите, които съдържат `=` в себе си (без `==` и `!=`, разбира се),
